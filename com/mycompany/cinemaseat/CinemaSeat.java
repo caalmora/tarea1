@@ -1,3 +1,5 @@
+package com.mycompany.cinemaseat;
+
 import java.time.LocalDateTime;
 import java.util.ArrayList;
 import java.util.Arrays;

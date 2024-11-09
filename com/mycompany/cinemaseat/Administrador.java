@@ -1,9 +1,5 @@
 package com.mycompany.cinemaseat;
 
-/**
- *
- * @author User
- */
 public class Administrador extends Usuario {
     public Administrador(String nombre, String correo, String tipoUsuario) {
         super(nombre, correo, tipoUsuario);
